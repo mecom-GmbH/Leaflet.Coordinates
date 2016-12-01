@@ -31,6 +31,7 @@
         "type": "CC BY 3",
         "url": "http://creativecommons.org/licenses/by/3.0/"
     }],
+    "main": "dist/Leaflet.Coordinates-0.1.5.min.js",
     "readmeFilename": "README.md",
     "gitHead": "3b5c7d7af4f735c9bb2a925aa0c4a839f61bb470",
     "bugs": {
